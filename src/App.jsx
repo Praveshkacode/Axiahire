@@ -3,7 +3,7 @@ import Navbar from './Components/Navbar'
 function App() {
 
   return (
-    <>
+    <><h1>Hello</h1>
       <Navbar/>
     </>
   )
